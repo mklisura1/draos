@@ -93,25 +93,25 @@
 				<!-- sidebar menu: : style can be found in sidebar.less -->
 				<ul class="sidebar-menu">
 					<li class="header">MAIN NAVIGATION</li>
-					<li><a href="/OrderingSystem-0.0.1-SNAPSHOT/"> <i class="fa fa-home"></i>
+					<li><a href="/OrderingSystem/"> <i class="fa fa-home"></i>
 							<span>Home</span>
 					</a></li>
-					<li><a href="/OrderingSystem-0.0.1-SNAPSHOT/aboutus"> <i
+					<li><a href="/OrderingSystem/aboutus"> <i
 							class="fa fa-calendar"></i> <span>About us</span>
 					</a></li>
-					<li><a href="/OrderingSystem-0.0.1-SNAPSHOT/menu"> <i
+					<li><a href="/OrderingSystem/menu"> <i
 							class="fa fa-cutlery"></i> <span>Menu</span>
 					</a></li>
-					<li><a href="/OrderingSystem-0.0.1-SNAPSHOT/order"> <i
+					<li><a href="/OrderingSystem/order"> <i
 							class="fa fa-cart-plus"></i> <span>Order</span>
 					</a></li>
-					<li><a href="/OrderingSystem-0.0.1-SNAPSHOT/reservation">
+					<li><a href="/OrderingSystem/reservation">
 							<i class="fa fa-calendar-check-o"></i> <span>Reservation</span>
 					</a></li>
-					<li><a href="/OrderingSystem-0.0.1-SNAPSHOT/gallery"> <i class="fa fa-tv"></i>
+					<li><a href="/OrderingSystem/gallery"> <i class="fa fa-tv"></i>
 							<span>Gallery</span>
 					</a></li>
-					<li class="active"><a href="/OrderingSystem-0.0.1-SNAPSHOT/contact"> <i
+					<li class="active"><a href="/OrderingSystem/contact"> <i
 							class="fa fa-envelope"></i> <span>Contact</span>
 					</a></li>
 
@@ -134,7 +134,7 @@
 			<!-- Main content -->
 			<section class="content">
 				<div class="row">
-				<form:form role ="form" method="POST" action="/OrderingSystem-0.0.1-SNAPSHOT/contact" modelAttribute="contact">
+				<form:form role ="form" method="POST" action="/OrderingSystem/contact" modelAttribute="contact">
 					<div class="col-md-12">
 						<div class="box box-primary">
 							<div class="box-header">
@@ -263,31 +263,31 @@
 
 	<!-- jQuery 2.1.4 -->
 	<script
-		src="/OrderingSystem-0.0.1-SNAPSHOT/resources/plugins/jQuery/jQuery-2.1.4.min.js"></script>
+		src="/OrderingSystem/resources/plugins/jQuery/jQuery-2.1.4.min.js"></script>
 	<!-- Bootstrap 3.3.5 -->
-	<script src="/OrderingSystem-0.0.1-SNAPSHOT/resources/bootstrap/js/bootstrap.min.js"></script>
+	<script src="/OrderingSystem/resources/bootstrap/js/bootstrap.min.js"></script>
 	<!-- FastClick -->
 	<script
-		src="/OrderingSystem-0.0.1-SNAPSHOT/resources/plugins/fastclick/fastclick.min.js"></script>
+		src="/OrderingSystem/resources/plugins/fastclick/fastclick.min.js"></script>
 	<!-- AdminLTE App -->
-	<script src="/OrderingSystem-0.0.1-SNAPSHOT/resources/bootstrap/dist/js/app.min.js"></script>
+	<script src="/OrderingSystem/resources/bootstrap/dist/js/app.min.js"></script>
 	<!-- Sparkline -->
 	<script
-		src="/OrderingSystem-0.0.1-SNAPSHOT/resources/plugins/sparkline/jquery.sparkline.min.js"></script>
+		src="/OrderingSystem/resources/plugins/sparkline/jquery.sparkline.min.js"></script>
 	<!-- jvectormap -->
 	<script
-		src="/OrderingSystem-0.0.1-SNAPSHOT/resources/plugins/jvectormap/jquery-jvectormap-1.2.2.min.js"></script>
+		src="/OrderingSystem/resources/plugins/jvectormap/jquery-jvectormap-1.2.2.min.js"></script>
 	<script
-		src="/OrderingSystem-0.0.1-SNAPSHOT/resources/plugins/jvectormap/jquery-jvectormap-world-mill-en.js"></script>
+		src="/OrderingSystem/resources/plugins/jvectormap/jquery-jvectormap-world-mill-en.js"></script>
 	<!-- SlimScroll 1.3.0 -->
 	<script
-		src="/OrderingSystem-0.0.1-SNAPSHOT/resources/plugins/slimScroll/jquery.slimscroll.min.js"></script>
+		src="/OrderingSystem/resources/plugins/slimScroll/jquery.slimscroll.min.js"></script>
 	<!-- ChartJS 1.0.1 -->
-	<script src="/OrderingSystem-0.0.1-SNAPSHOT/resources/plugins/chartjs/Chart.min.js"></script>
+	<script src="/OrderingSystem/resources/plugins/chartjs/Chart.min.js"></script>
 	<!-- Date picker -->
-	<script src="/OrderingSystem-0.0.1-SNAPSHOT/resources/plugins/datepicker/bootstrap-datepicker.js"></script>
+	<script src="/OrderingSystem/resources/plugins/datepicker/bootstrap-datepicker.js"></script>
 	<!-- Time picker -->
-	<script src="/OrderingSystem-0.0.1-SNAPSHOT/resources/plugins/timepicker2/jquery.timepicker.min.js"></script>
+	<script src="/OrderingSystem/resources/plugins/timepicker2/jquery.timepicker.min.js"></script>
 	
 	<script type="text/javascript">
 		$('#datepicker').datepicker({

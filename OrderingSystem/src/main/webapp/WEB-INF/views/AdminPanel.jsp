@@ -116,8 +116,8 @@
                 <i class="fa fa-angle-left pull-right"></i>
               </a>
               <ul class="treeview-menu">
-                <li><a href="/OrderingSystem-0.0.1-SNAPSHOT/admin/user/add"><i class="fa fa-user-plus"></i>Add new user</a></li>
-                <li><a href="/OrderingSystem-0.0.1-SNAPSHOT/admin/user/list"><i class="fa fa-list-ul"></i>Show all users</a></li>
+                <li><a href="/OrderingSystem/admin/user/add"><i class="fa fa-user-plus"></i>Add new user</a></li>
+                <li><a href="/OrderingSystem/admin/user/list"><i class="fa fa-list-ul"></i>Show all users</a></li>
               </ul>
             </li>
           </ul>
@@ -786,27 +786,27 @@
     </div><!-- ./wrapper -->
 
         <!-- jQuery 2.1.4 -->
-    <script src="/OrderingSystem-0.0.1-SNAPSHOT/resources/plugins/jQuery/jQuery-2.1.4.min.js"></script>
+    <script src="/OrderingSystem/resources/plugins/jQuery/jQuery-2.1.4.min.js"></script>
     <!-- Bootstrap 3.3.5 -->
-    <script src="/OrderingSystem-0.0.1-SNAPSHOT/resources/bootstrap/js/bootstrap.min.js"></script>
+    <script src="/OrderingSystem/resources/bootstrap/js/bootstrap.min.js"></script>
     <!-- FastClick -->
-    <script src="/OrderingSystem-0.0.1-SNAPSHOT/resources/plugins/fastclick/fastclick.min.js"></script>
+    <script src="/OrderingSystem/resources/plugins/fastclick/fastclick.min.js"></script>
     <!-- AdminLTE App -->
-    <script src="/OrderingSystem-0.0.1-SNAPSHOT/resources/bootstrap/dist/js/app.min.js"></script>
+    <script src="/OrderingSystem/resources/bootstrap/dist/js/app.min.js"></script>
     <!-- Sparkline -->
-    <script src="/OrderingSystem-0.0.1-SNAPSHOT/resources/plugins/sparkline/jquery.sparkline.min.js"></script>
+    <script src="/OrderingSystem/resources/plugins/sparkline/jquery.sparkline.min.js"></script>
     <!-- jvectormap -->
-    <script src="/OrderingSystem-0.0.1-SNAPSHOT/resources/plugins/jvectormap/jquery-jvectormap-1.2.2.min.js"></script>
-    <script src="/OrderingSystem-0.0.1-SNAPSHOT/resources/plugins/jvectormap/jquery-jvectormap-world-mill-en.js"></script>
+    <script src="/OrderingSystem/resources/plugins/jvectormap/jquery-jvectormap-1.2.2.min.js"></script>
+    <script src="/OrderingSystem/resources/plugins/jvectormap/jquery-jvectormap-world-mill-en.js"></script>
     <!-- SlimScroll 1.3.0 -->
-    <script src="/OrderingSystem-0.0.1-SNAPSHOT/resources/plugins/slimScroll/jquery.slimscroll.min.js"></script>
+    <script src="/OrderingSystem/resources/plugins/slimScroll/jquery.slimscroll.min.js"></script>
     <!-- ChartJS 1.0.1 -->
-    <script src="/OrderingSystem-0.0.1-SNAPSHOT/resources/plugins/chartjs/Chart.min.js"></script>
+    <script src="/OrderingSystem/resources/plugins/chartjs/Chart.min.js"></script>
     <!-- SimpleCart -->
-    <script src="/OrderingSystem-0.0.1-SNAPSHOT/resources/plugins/SimpleCart/simpleCart.js"></script>
+    <script src="/OrderingSystem/resources/plugins/SimpleCart/simpleCart.js"></script>
     <!-- AdminLTE for demo purposes -->
-    <script src="/OrderingSystem-0.0.1-SNAPSHOT/resources/bootstrap/dist/js/pages/dashboard2.js"></script>
+    <script src="/OrderingSystem/resources/bootstrap/dist/js/pages/dashboard2.js"></script>
     <!-- AdminLTE for demo purposes -->
-    <script src="/OrderingSystem-0.0.1-SNAPSHOT/resources/bootstrap/dist/js/demo.js"></script>
+    <script src="/OrderingSystem/resources/bootstrap/dist/js/demo.js"></script>
 </body>
 </html>

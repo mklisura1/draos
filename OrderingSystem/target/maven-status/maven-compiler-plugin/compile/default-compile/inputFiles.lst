@@ -1,90 +1,90 @@
-C:\Users\Mesud Klisura\Desktop\USB1\OrderingSystem\OrderingSystem\src\main\java\order\service\ContactService.java
-C:\Users\Mesud Klisura\Desktop\USB1\OrderingSystem\OrderingSystem\src\main\java\order\wrapper\OrderCartWrapper.java
-C:\Users\Mesud Klisura\Desktop\USB1\OrderingSystem\OrderingSystem\src\main\java\order\controller\ContactController.java
-C:\Users\Mesud Klisura\Desktop\USB1\OrderingSystem\OrderingSystem\src\main\java\order\model\Reservation.java
-C:\Users\Mesud Klisura\Desktop\USB1\OrderingSystem\OrderingSystem\src\main\java\order\service\ProductCategoryServiceImpl.java
-C:\Users\Mesud Klisura\Desktop\USB1\OrderingSystem\OrderingSystem\src\main\java\order\model\Gallery.java
-C:\Users\Mesud Klisura\Desktop\USB1\OrderingSystem\OrderingSystem\src\main\java\order\init\Initializer.java
-C:\Users\Mesud Klisura\Desktop\USB1\OrderingSystem\OrderingSystem\src\main\java\order\dao\UserPrivilegeDAO.java
-C:\Users\Mesud Klisura\Desktop\USB1\OrderingSystem\OrderingSystem\src\main\java\order\model\Contact.java
-C:\Users\Mesud Klisura\Desktop\USB1\OrderingSystem\OrderingSystem\src\main\java\order\model\GalleryPicture.java
-C:\Users\Mesud Klisura\Desktop\USB1\OrderingSystem\OrderingSystem\src\main\java\order\dao\ProductTypeDAO.java
-C:\Users\Mesud Klisura\Desktop\USB1\OrderingSystem\OrderingSystem\src\main\java\order\model\Cart.java
-C:\Users\Mesud Klisura\Desktop\USB1\OrderingSystem\OrderingSystem\src\main\java\order\dao\UserPrivilegeDAOImpl.java
-C:\Users\Mesud Klisura\Desktop\USB1\OrderingSystem\OrderingSystem\src\main\java\order\service\UserServiceImpl.java
-C:\Users\Mesud Klisura\Desktop\USB1\OrderingSystem\OrderingSystem\src\main\java\order\model\Content.java
-C:\Users\Mesud Klisura\Desktop\USB1\OrderingSystem\OrderingSystem\src\main\java\order\service\EncryptionService.java
-C:\Users\Mesud Klisura\Desktop\USB1\OrderingSystem\OrderingSystem\src\main\java\order\model\User.java
-C:\Users\Mesud Klisura\Desktop\USB1\OrderingSystem\OrderingSystem\src\main\java\order\model\UserPrivilege.java
-C:\Users\Mesud Klisura\Desktop\USB1\OrderingSystem\OrderingSystem\src\main\java\order\dao\ReservationDAO.java
-C:\Users\Mesud Klisura\Desktop\USB1\OrderingSystem\OrderingSystem\src\main\java\order\model\ProductType.java
-C:\Users\Mesud Klisura\Desktop\USB1\OrderingSystem\OrderingSystem\src\main\java\order\dao\AddressDAO.java
-C:\Users\Mesud Klisura\Desktop\USB1\OrderingSystem\OrderingSystem\src\main\java\order\dao\ProductPictureDAOImpl.java
-C:\Users\Mesud Klisura\Desktop\USB1\OrderingSystem\OrderingSystem\src\main\java\order\service\AddressServiceImpl.java
-C:\Users\Mesud Klisura\Desktop\USB1\OrderingSystem\OrderingSystem\src\main\java\order\model\Address.java
-C:\Users\Mesud Klisura\Desktop\USB1\OrderingSystem\OrderingSystem\src\main\java\order\service\EncryptionServiceImpl.java
-C:\Users\Mesud Klisura\Desktop\USB1\OrderingSystem\OrderingSystem\src\main\java\order\service\GalleryPictureServiceImpl.java
-C:\Users\Mesud Klisura\Desktop\USB1\OrderingSystem\OrderingSystem\src\main\java\order\dao\UserTypeDAOImpl.java
-C:\Users\Mesud Klisura\Desktop\USB1\OrderingSystem\OrderingSystem\src\main\java\order\controller\LoginController.java
-C:\Users\Mesud Klisura\Desktop\USB1\OrderingSystem\OrderingSystem\src\main\java\order\controller\AboutUsController.java
-C:\Users\Mesud Klisura\Desktop\USB1\OrderingSystem\OrderingSystem\src\main\java\order\dao\ProductPictureDAO.java
-C:\Users\Mesud Klisura\Desktop\USB1\OrderingSystem\OrderingSystem\src\main\java\order\model\ProductPicture.java
-C:\Users\Mesud Klisura\Desktop\USB1\OrderingSystem\OrderingSystem\src\main\java\order\model\Customer.java
-C:\Users\Mesud Klisura\Desktop\USB1\OrderingSystem\OrderingSystem\src\main\java\order\service\AddressService.java
-C:\Users\Mesud Klisura\Desktop\USB1\OrderingSystem\OrderingSystem\src\main\java\order\service\ContactServiceImpl.java
-C:\Users\Mesud Klisura\Desktop\USB1\OrderingSystem\OrderingSystem\src\main\java\order\service\UserPrivilegeServiceImpl.java
-C:\Users\Mesud Klisura\Desktop\USB1\OrderingSystem\OrderingSystem\src\main\java\order\dao\ProductIngredientDAOImpl.java
-C:\Users\Mesud Klisura\Desktop\USB1\OrderingSystem\OrderingSystem\src\main\java\order\controller\AdminController.java
-C:\Users\Mesud Klisura\Desktop\USB1\OrderingSystem\OrderingSystem\src\main\java\order\init\WebAppConfig.java
-C:\Users\Mesud Klisura\Desktop\USB1\OrderingSystem\OrderingSystem\src\main\java\order\service\UserTypeServiceImpl.java
-C:\Users\Mesud Klisura\Desktop\USB1\OrderingSystem\OrderingSystem\src\main\java\order\dao\GalleryPictureDAO.java
-C:\Users\Mesud Klisura\Desktop\USB1\OrderingSystem\OrderingSystem\src\main\java\order\dao\ProductDAO.java
-C:\Users\Mesud Klisura\Desktop\USB1\OrderingSystem\OrderingSystem\src\main\java\order\model\UserType.java
-C:\Users\Mesud Klisura\Desktop\USB1\OrderingSystem\OrderingSystem\src\main\java\order\service\ReservationServiceImpl.java
-C:\Users\Mesud Klisura\Desktop\USB1\OrderingSystem\OrderingSystem\src\main\java\order\service\GalleryPictureService.java
-C:\Users\Mesud Klisura\Desktop\USB1\OrderingSystem\OrderingSystem\src\main\java\order\service\UserPrivilegeService.java
-C:\Users\Mesud Klisura\Desktop\USB1\OrderingSystem\OrderingSystem\src\main\java\order\service\GalleryServiceImpl.java
-C:\Users\Mesud Klisura\Desktop\USB1\OrderingSystem\OrderingSystem\src\main\java\order\service\UserTypeService.java
-C:\Users\Mesud Klisura\Desktop\USB1\OrderingSystem\OrderingSystem\src\main\java\order\service\ProductTypeServiceImpl.java
-C:\Users\Mesud Klisura\Desktop\USB1\OrderingSystem\OrderingSystem\src\main\java\order\dao\ProductCategoryDAOImpl.java
-C:\Users\Mesud Klisura\Desktop\USB1\OrderingSystem\OrderingSystem\src\main\java\order\controller\ReservationController.java
-C:\Users\Mesud Klisura\Desktop\USB1\OrderingSystem\OrderingSystem\src\main\java\order\model\Organization.java
-C:\Users\Mesud Klisura\Desktop\USB1\OrderingSystem\OrderingSystem\src\main\java\order\service\ProductPictureService.java
-C:\Users\Mesud Klisura\Desktop\USB1\OrderingSystem\OrderingSystem\src\main\java\order\controller\OrderController.java
-C:\Users\Mesud Klisura\Desktop\USB1\OrderingSystem\OrderingSystem\src\main\java\order\dao\GalleryPictureDAOImpl.java
-C:\Users\Mesud Klisura\Desktop\USB1\OrderingSystem\OrderingSystem\src\main\java\order\model\OrderStatus.java
-C:\Users\Mesud Klisura\Desktop\USB1\OrderingSystem\OrderingSystem\src\main\java\order\model\Product.java
-C:\Users\Mesud Klisura\Desktop\USB1\OrderingSystem\OrderingSystem\src\main\java\order\service\ProductService.java
-C:\Users\Mesud Klisura\Desktop\USB1\OrderingSystem\OrderingSystem\src\main\java\order\service\ProductIngredientService.java
-C:\Users\Mesud Klisura\Desktop\USB1\OrderingSystem\OrderingSystem\src\main\java\order\model\Order.java
-C:\Users\Mesud Klisura\Desktop\USB1\OrderingSystem\OrderingSystem\src\main\java\order\dao\UserDAOImpl.java
-C:\Users\Mesud Klisura\Desktop\USB1\OrderingSystem\OrderingSystem\src\main\java\order\dao\ContactDAOImpl.java
-C:\Users\Mesud Klisura\Desktop\USB1\OrderingSystem\OrderingSystem\src\main\java\order\dao\ContactDAO.java
-C:\Users\Mesud Klisura\Desktop\USB1\OrderingSystem\OrderingSystem\src\main\java\order\dao\UserDAO.java
-C:\Users\Mesud Klisura\Desktop\USB1\OrderingSystem\OrderingSystem\src\main\java\order\dao\GalleryDAOImpl.java
-C:\Users\Mesud Klisura\Desktop\USB1\OrderingSystem\OrderingSystem\src\main\java\order\service\LoginServiceImpl.java
-C:\Users\Mesud Klisura\Desktop\USB1\OrderingSystem\OrderingSystem\src\main\java\order\dao\AddressDAOImpl.java
-C:\Users\Mesud Klisura\Desktop\USB1\OrderingSystem\OrderingSystem\src\main\java\order\controller\HomeController.java
-C:\Users\Mesud Klisura\Desktop\USB1\OrderingSystem\OrderingSystem\src\main\java\order\service\UserService.java
-C:\Users\Mesud Klisura\Desktop\USB1\OrderingSystem\OrderingSystem\src\main\java\order\service\LoginService.java
-C:\Users\Mesud Klisura\Desktop\USB1\OrderingSystem\OrderingSystem\src\main\java\order\service\ProductTypeService.java
-C:\Users\Mesud Klisura\Desktop\USB1\OrderingSystem\OrderingSystem\src\main\java\order\model\ProductIngredient.java
-C:\Users\Mesud Klisura\Desktop\USB1\OrderingSystem\OrderingSystem\src\main\java\order\model\StudentTest.java
-C:\Users\Mesud Klisura\Desktop\USB1\OrderingSystem\OrderingSystem\src\main\java\order\service\ReservationService.java
-C:\Users\Mesud Klisura\Desktop\USB1\OrderingSystem\OrderingSystem\src\main\java\order\model\ProductCategory.java
-C:\Users\Mesud Klisura\Desktop\USB1\OrderingSystem\OrderingSystem\src\main\java\order\dao\ProductIngredientDAO.java
-C:\Users\Mesud Klisura\Desktop\USB1\OrderingSystem\OrderingSystem\src\main\java\order\dao\ReservationDAOImpl.java
-C:\Users\Mesud Klisura\Desktop\USB1\OrderingSystem\OrderingSystem\src\main\java\order\wrapper\UserWrapper.java
-C:\Users\Mesud Klisura\Desktop\USB1\OrderingSystem\OrderingSystem\src\main\java\order\service\GalleryService.java
-C:\Users\Mesud Klisura\Desktop\USB1\OrderingSystem\OrderingSystem\src\main\java\order\dao\UserTypeDAO.java
-C:\Users\Mesud Klisura\Desktop\USB1\OrderingSystem\OrderingSystem\src\main\java\order\dao\GalleryDAO.java
-C:\Users\Mesud Klisura\Desktop\USB1\OrderingSystem\OrderingSystem\src\main\java\order\dao\ProductTypeDAOImpl.java
-C:\Users\Mesud Klisura\Desktop\USB1\OrderingSystem\OrderingSystem\src\main\java\order\dao\ProductCategoryDAO.java
-C:\Users\Mesud Klisura\Desktop\USB1\OrderingSystem\OrderingSystem\src\main\java\order\dao\ProductDAOImpl.java
-C:\Users\Mesud Klisura\Desktop\USB1\OrderingSystem\OrderingSystem\src\main\java\order\service\ProductIngredientServiceImpl.java
-C:\Users\Mesud Klisura\Desktop\USB1\OrderingSystem\OrderingSystem\src\main\java\order\controller\MenuController.java
-C:\Users\Mesud Klisura\Desktop\USB1\OrderingSystem\OrderingSystem\src\main\java\order\helper\PasswordValidator.java
-C:\Users\Mesud Klisura\Desktop\USB1\OrderingSystem\OrderingSystem\src\main\java\order\controller\GalleryController.java
-C:\Users\Mesud Klisura\Desktop\USB1\OrderingSystem\OrderingSystem\src\main\java\order\service\ProductCategoryService.java
-C:\Users\Mesud Klisura\Desktop\USB1\OrderingSystem\OrderingSystem\src\main\java\order\service\ProductPictureServiceImpl.java
-C:\Users\Mesud Klisura\Desktop\USB1\OrderingSystem\OrderingSystem\src\main\java\order\service\ProductServiceImpl.java
+C:\Users\User1\Desktop\draos\OrderingSystem\src\main\java\order\model\Cart.java
+C:\Users\User1\Desktop\draos\OrderingSystem\src\main\java\order\model\ProductIngredient.java
+C:\Users\User1\Desktop\draos\OrderingSystem\src\main\java\order\controller\MenuController.java
+C:\Users\User1\Desktop\draos\OrderingSystem\src\main\java\order\model\Content.java
+C:\Users\User1\Desktop\draos\OrderingSystem\src\main\java\order\model\UserType.java
+C:\Users\User1\Desktop\draos\OrderingSystem\src\main\java\order\init\WebAppConfig.java
+C:\Users\User1\Desktop\draos\OrderingSystem\src\main\java\order\dao\GalleryPictureDAOImpl.java
+C:\Users\User1\Desktop\draos\OrderingSystem\src\main\java\order\model\StudentTest.java
+C:\Users\User1\Desktop\draos\OrderingSystem\src\main\java\order\service\ProductPictureService.java
+C:\Users\User1\Desktop\draos\OrderingSystem\src\main\java\order\model\UserPrivilege.java
+C:\Users\User1\Desktop\draos\OrderingSystem\src\main\java\order\controller\AboutUsController.java
+C:\Users\User1\Desktop\draos\OrderingSystem\src\main\java\order\dao\ProductIngredientDAO.java
+C:\Users\User1\Desktop\draos\OrderingSystem\src\main\java\order\model\OrderStatus.java
+C:\Users\User1\Desktop\draos\OrderingSystem\src\main\java\order\dao\ContactDAO.java
+C:\Users\User1\Desktop\draos\OrderingSystem\src\main\java\order\controller\LoginController.java
+C:\Users\User1\Desktop\draos\OrderingSystem\src\main\java\order\dao\UserPrivilegeDAOImpl.java
+C:\Users\User1\Desktop\draos\OrderingSystem\src\main\java\order\model\ProductPicture.java
+C:\Users\User1\Desktop\draos\OrderingSystem\src\main\java\order\model\Customer.java
+C:\Users\User1\Desktop\draos\OrderingSystem\src\main\java\order\dao\UserPrivilegeDAO.java
+C:\Users\User1\Desktop\draos\OrderingSystem\src\main\java\order\dao\ProductCategoryDAOImpl.java
+C:\Users\User1\Desktop\draos\OrderingSystem\src\main\java\order\service\ProductCategoryServiceImpl.java
+C:\Users\User1\Desktop\draos\OrderingSystem\src\main\java\order\service\UserTypeServiceImpl.java
+C:\Users\User1\Desktop\draos\OrderingSystem\src\main\java\order\wrapper\UserWrapper.java
+C:\Users\User1\Desktop\draos\OrderingSystem\src\main\java\order\model\Gallery.java
+C:\Users\User1\Desktop\draos\OrderingSystem\src\main\java\order\dao\ProductDAO.java
+C:\Users\User1\Desktop\draos\OrderingSystem\src\main\java\order\service\ProductTypeServiceImpl.java
+C:\Users\User1\Desktop\draos\OrderingSystem\src\main\java\order\service\UserService.java
+C:\Users\User1\Desktop\draos\OrderingSystem\src\main\java\order\model\Reservation.java
+C:\Users\User1\Desktop\draos\OrderingSystem\src\main\java\order\service\UserTypeService.java
+C:\Users\User1\Desktop\draos\OrderingSystem\src\main\java\order\service\ProductIngredientServiceImpl.java
+C:\Users\User1\Desktop\draos\OrderingSystem\src\main\java\order\service\UserPrivilegeServiceImpl.java
+C:\Users\User1\Desktop\draos\OrderingSystem\src\main\java\order\dao\ProductCategoryDAO.java
+C:\Users\User1\Desktop\draos\OrderingSystem\src\main\java\order\dao\ReservationDAO.java
+C:\Users\User1\Desktop\draos\OrderingSystem\src\main\java\order\service\GalleryService.java
+C:\Users\User1\Desktop\draos\OrderingSystem\src\main\java\order\dao\ProductDAOImpl.java
+C:\Users\User1\Desktop\draos\OrderingSystem\src\main\java\order\dao\ProductPictureDAO.java
+C:\Users\User1\Desktop\draos\OrderingSystem\src\main\java\order\dao\UserDAOImpl.java
+C:\Users\User1\Desktop\draos\OrderingSystem\src\main\java\order\service\GalleryPictureServiceImpl.java
+C:\Users\User1\Desktop\draos\OrderingSystem\src\main\java\order\service\AddressServiceImpl.java
+C:\Users\User1\Desktop\draos\OrderingSystem\src\main\java\order\service\UserServiceImpl.java
+C:\Users\User1\Desktop\draos\OrderingSystem\src\main\java\order\controller\ReservationController.java
+C:\Users\User1\Desktop\draos\OrderingSystem\src\main\java\order\model\ProductType.java
+C:\Users\User1\Desktop\draos\OrderingSystem\src\main\java\order\service\ProductCategoryService.java
+C:\Users\User1\Desktop\draos\OrderingSystem\src\main\java\order\dao\ReservationDAOImpl.java
+C:\Users\User1\Desktop\draos\OrderingSystem\src\main\java\order\service\ProductTypeService.java
+C:\Users\User1\Desktop\draos\OrderingSystem\src\main\java\order\dao\GalleryPictureDAO.java
+C:\Users\User1\Desktop\draos\OrderingSystem\src\main\java\order\controller\HomeController.java
+C:\Users\User1\Desktop\draos\OrderingSystem\src\main\java\order\dao\ProductPictureDAOImpl.java
+C:\Users\User1\Desktop\draos\OrderingSystem\src\main\java\order\dao\ProductTypeDAOImpl.java
+C:\Users\User1\Desktop\draos\OrderingSystem\src\main\java\order\service\ContactService.java
+C:\Users\User1\Desktop\draos\OrderingSystem\src\main\java\order\dao\ProductIngredientDAOImpl.java
+C:\Users\User1\Desktop\draos\OrderingSystem\src\main\java\order\helper\PasswordValidator.java
+C:\Users\User1\Desktop\draos\OrderingSystem\src\main\java\order\model\Address.java
+C:\Users\User1\Desktop\draos\OrderingSystem\src\main\java\order\service\GalleryPictureService.java
+C:\Users\User1\Desktop\draos\OrderingSystem\src\main\java\order\service\ReservationService.java
+C:\Users\User1\Desktop\draos\OrderingSystem\src\main\java\order\service\ContactServiceImpl.java
+C:\Users\User1\Desktop\draos\OrderingSystem\src\main\java\order\service\LoginService.java
+C:\Users\User1\Desktop\draos\OrderingSystem\src\main\java\order\model\Organization.java
+C:\Users\User1\Desktop\draos\OrderingSystem\src\main\java\order\service\GalleryServiceImpl.java
+C:\Users\User1\Desktop\draos\OrderingSystem\src\main\java\order\dao\GalleryDAOImpl.java
+C:\Users\User1\Desktop\draos\OrderingSystem\src\main\java\order\dao\AddressDAO.java
+C:\Users\User1\Desktop\draos\OrderingSystem\src\main\java\order\dao\AddressDAOImpl.java
+C:\Users\User1\Desktop\draos\OrderingSystem\src\main\java\order\service\ProductServiceImpl.java
+C:\Users\User1\Desktop\draos\OrderingSystem\src\main\java\order\dao\ContactDAOImpl.java
+C:\Users\User1\Desktop\draos\OrderingSystem\src\main\java\order\controller\ContactController.java
+C:\Users\User1\Desktop\draos\OrderingSystem\src\main\java\order\wrapper\OrderCartWrapper.java
+C:\Users\User1\Desktop\draos\OrderingSystem\src\main\java\order\controller\AdminController.java
+C:\Users\User1\Desktop\draos\OrderingSystem\src\main\java\order\controller\GalleryController.java
+C:\Users\User1\Desktop\draos\OrderingSystem\src\main\java\order\model\Contact.java
+C:\Users\User1\Desktop\draos\OrderingSystem\src\main\java\order\service\ProductService.java
+C:\Users\User1\Desktop\draos\OrderingSystem\src\main\java\order\service\UserPrivilegeService.java
+C:\Users\User1\Desktop\draos\OrderingSystem\src\main\java\order\service\LoginServiceImpl.java
+C:\Users\User1\Desktop\draos\OrderingSystem\src\main\java\order\dao\UserTypeDAOImpl.java
+C:\Users\User1\Desktop\draos\OrderingSystem\src\main\java\order\service\ProductIngredientService.java
+C:\Users\User1\Desktop\draos\OrderingSystem\src\main\java\order\controller\OrderController.java
+C:\Users\User1\Desktop\draos\OrderingSystem\src\main\java\order\model\Order.java
+C:\Users\User1\Desktop\draos\OrderingSystem\src\main\java\order\dao\UserDAO.java
+C:\Users\User1\Desktop\draos\OrderingSystem\src\main\java\order\dao\GalleryDAO.java
+C:\Users\User1\Desktop\draos\OrderingSystem\src\main\java\order\dao\ProductTypeDAO.java
+C:\Users\User1\Desktop\draos\OrderingSystem\src\main\java\order\dao\UserTypeDAO.java
+C:\Users\User1\Desktop\draos\OrderingSystem\src\main\java\order\model\ProductCategory.java
+C:\Users\User1\Desktop\draos\OrderingSystem\src\main\java\order\model\User.java
+C:\Users\User1\Desktop\draos\OrderingSystem\src\main\java\order\service\AddressService.java
+C:\Users\User1\Desktop\draos\OrderingSystem\src\main\java\order\init\Initializer.java
+C:\Users\User1\Desktop\draos\OrderingSystem\src\main\java\order\service\ReservationServiceImpl.java
+C:\Users\User1\Desktop\draos\OrderingSystem\src\main\java\order\model\Product.java
+C:\Users\User1\Desktop\draos\OrderingSystem\src\main\java\order\service\EncryptionService.java
+C:\Users\User1\Desktop\draos\OrderingSystem\src\main\java\order\service\ProductPictureServiceImpl.java
+C:\Users\User1\Desktop\draos\OrderingSystem\src\main\java\order\model\GalleryPicture.java
+C:\Users\User1\Desktop\draos\OrderingSystem\src\main\java\order\service\EncryptionServiceImpl.java

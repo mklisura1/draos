@@ -5,7 +5,7 @@
 %>
 <header class="main-header">
 	<!-- Logo -->
-	<a href="/OrderingSystem-0.0.1-SNAPSHOT/home" class="logo"> <!-- mini logo for sidebar mini 50x50 pixels -->
+	<a href="/OrderingSystem/home" class="logo"> <!-- mini logo for sidebar mini 50x50 pixels -->
 		<span class="logo-mini"><b>M</b>Net</span> <!-- logo for regular state and mobile devices -->
 		<span class="logo-lg"><b>Mega</b>Net</span>
 	</a>
@@ -20,7 +20,7 @@
 		<div class="navbar-custom-menu" style="color: silver;">
 			<ul class="nav navbar-nav">
 				<li >
-				<a href="/OrderingSystem-0.0.1-SNAPSHOT/logout" class="btn btn-default btn-flat">Sign out</a>	
+				<a href="/OrderingSystem/logout" class="btn btn-default btn-flat">Sign out</a>	
 				</li>	
 			</ul>
 		</div>

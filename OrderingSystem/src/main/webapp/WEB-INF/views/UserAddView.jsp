@@ -9,15 +9,15 @@
     <!-- Tell the browser to be responsive to screen width -->
     <meta content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no" name="viewport">
     <!-- Bootstrap 3.3.5 -->
-    <link rel="stylesheet" href="/OrderingSystem-0.0.1-SNAPSHOT/resources/bootstrap/css/bootstrap.min.css">
+    <link rel="stylesheet" href="/OrderingSystem/resources/bootstrap/css/bootstrap.min.css">
     <!-- Font Awesome -->
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
     <!-- Ionicons -->
     <link rel="stylesheet" href="https://code.ionicframework.com/ionicons/2.0.1/css/ionicons.min.css">
     <!-- Theme style -->
-    <link rel="stylesheet" href="/OrderingSystem-0.0.1-SNAPSHOT/resources/bootstrap/css/AdminLTE.min.css">
+    <link rel="stylesheet" href="/OrderingSystem/resources/bootstrap/css/AdminLTE.min.css">
     <!-- iCheck -->
-    <link rel="stylesheet" href="/OrderingSystem-0.0.1-SNAPSHOT/resources/plugins/iCheck/square/blue.css">
+    <link rel="stylesheet" href="/OrderingSystem/resources/plugins/iCheck/square/blue.css">
 
 </head>
 <body class="hold-transition register-page">
@@ -28,7 +28,7 @@
 
       <div class="register-box-body">
         <p class="login-box-msg">Register a new membership</p>
-        <form action="/OrderingSystem-0.0.1-SNAPSHOT/users/registration" method="post">
+        <form action="/OrderingSystem/users/registration" method="post">
           <div class="form-group has-feedback">
             <input type="text" class="form-control" value="${username}" placeholder="Username" name="username">
             <span class="glyphicon glyphicon-user form-control-feedback"></span>
@@ -49,16 +49,16 @@
           </div>
         </form>
 
-        <a href="/OrderingSystem-0.0.1-SNAPSHOT/login" class="text-center">I already have a membership</a>
+        <a href="/OrderingSystem/login" class="text-center">I already have a membership</a>
       </div><!-- /.form-box -->
     </div><!-- /.register-box -->
   
     <!-- jQuery 2.1.4 -->
-    <script src="/OrderingSystem-0.0.1-SNAPSHOT/resources/plugins/jQuery/jQuery-2.1.4.min.js"></script>
+    <script src="/OrderingSystem/resources/plugins/jQuery/jQuery-2.1.4.min.js"></script>
     <!-- Bootstrap 3.3.5 -->
-    <script src="/OrderingSystem-0.0.1-SNAPSHOT/resources/bootstrap/js/bootstrap.min.js"></script>
+    <script src="/OrderingSystem/resources/bootstrap/js/bootstrap.min.js"></script>
     <!-- iCheck -->
-    <script src="/OrderingSystem-0.0.1-SNAPSHOT/resources/plugins/iCheck/icheck.min.js"></script>
+    <script src="/OrderingSystem/resources/plugins/iCheck/icheck.min.js"></script>
    
 </body>
 </html>

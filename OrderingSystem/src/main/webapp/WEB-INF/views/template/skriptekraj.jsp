@@ -1,26 +1,26 @@
 
 <!-- jQuery 2.1.4 -->
-<script src="/OrderingSystem-0.0.1-SNAPSHOT/resources/plugins/jQuery/jQuery-2.1.4.min.js"></script>
+<script src="/OrderingSystem/resources/plugins/jQuery/jQuery-2.1.4.min.js"></script>
 
 <!-- jQuery-UI-->
-<script src="/OrderingSystem-0.0.1-SNAPSHOT/resources/plugins/jQueryUI/jquery-ui.min.js"></script>
+<script src="/OrderingSystem/resources/plugins/jQueryUI/jquery-ui.min.js"></script>
 
 <!-- Bootstrap 3.3.5 -->
-<script src="/OrderingSystem-0.0.1-SNAPSHOT/resources/bootstrap/js/bootstrap.min.js"></script>
+<script src="/OrderingSystem/resources/bootstrap/js/bootstrap.min.js"></script>
 <!-- SlimScroll -->
 <script
-	src="/OrderingSystem-0.0.1-SNAPSHOT/resources/plugins/slimScroll/jquery.slimscroll.min.js"></script>
+	src="/OrderingSystem/resources/plugins/slimScroll/jquery.slimscroll.min.js"></script>
 <!-- FastClick -->
-<script src="/OrderingSystem-0.0.1-SNAPSHOT/resources/plugins/fastclick/fastclick.min.js"></script>
+<script src="/OrderingSystem/resources/plugins/fastclick/fastclick.min.js"></script>
 <!-- AdminLTE App -->
-<script src="/OrderingSystem-0.0.1-SNAPSHOT/resources/bootstrap/dist/js/app.min.js"></script>
+<script src="/OrderingSystem/resources/bootstrap/dist/js/app.min.js"></script>
 <!-- AdminLTE for demo purposes -->
-<script src="/OrderingSystem-0.0.1-SNAPSHOT/resources/bootstrap/dist/js/demo.js"></script>
+<script src="/OrderingSystem/resources/bootstrap/dist/js/demo.js"></script>
 <!-- iCheck -->
-<script src="/OrderingSystem-0.0.1-SNAPSHOT/resources/plugins/iCheck/icheck.min.js"></script>
+<script src="/OrderingSystem/resources/plugins/iCheck/icheck.min.js"></script>
 
 <script
-	src="/OrderingSystem-0.0.1-SNAPSHOT/resources/plugins/datepicker/bootstrap-datepicker.js"></script>
+	src="/OrderingSystem/resources/plugins/datepicker/bootstrap-datepicker.js"></script>
 
 <script type="text/javascript">
 		$('#datepicker').datepicker({

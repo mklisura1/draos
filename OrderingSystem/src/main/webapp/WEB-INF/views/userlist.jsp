@@ -13,7 +13,7 @@
 	content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no"
 	name="viewport">
 <!-- Bootstrap 3.3.5 -->
-<link rel="stylesheet" href="/OrderingSystem-0.0.1-SNAPSHOT/resources/bootstrap/css/bootstrap.min.css">
+<link rel="stylesheet" href="/OrderingSystem/resources/bootstrap/css/bootstrap.min.css">
 <!-- Font Awesome -->
 <link rel="stylesheet"
 	href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
@@ -22,14 +22,14 @@
 	href="https://code.ionicframework.com/ionicons/2.0.1/css/ionicons.min.css">
 <!-- jvectormap -->
 <link rel="stylesheet"
-	href="/OrderingSystem-0.0.1-SNAPSHOT/resources/plugins/jvectormap/jquery-jvectormap-1.2.2.css">
+	href="/OrderingSystem/resources/plugins/jvectormap/jquery-jvectormap-1.2.2.css">
 <!-- Theme style -->
 <link rel="stylesheet"
-	href="/OrderingSystem-0.0.1-SNAPSHOT/resources/bootstrap/dist/css/AdminLTE.min.css">
+	href="/OrderingSystem/resources/bootstrap/dist/css/AdminLTE.min.css">
 <!-- AdminLTE Skins. Choose a skin from the css/skins
          folder instead of downloading all of them to reduce the load. -->
 <link rel="stylesheet"
-	href="/OrderingSystem-0.0.1-SNAPSHOT/resources/bootstrap/dist/css/skins/_all-skins.min.css">
+	href="/OrderingSystem/resources/bootstrap/dist/css/skins/_all-skins.min.css">
 
 <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
 <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
@@ -154,8 +154,8 @@
                 <i class="fa fa-angle-left pull-right"></i>
               </a>
               <ul class="treeview-menu">
-                <li><a href="/OrderingSystem-0.0.1-SNAPSHOT/admin/user/add"><i class="fa fa-user-plus"></i>Add new user</a></li>
-                <li class="active"><a href="/OrderingSystem-0.0.1-SNAPSHOT/admin/user/list"><i class="fa fa-list-ul"></i>Show all users</a></li>
+                <li><a href="/OrderingSystem/admin/user/add"><i class="fa fa-user-plus"></i>Add new user</a></li>
+                <li class="active"><a href="/OrderingSystem/admin/user/list"><i class="fa fa-list-ul"></i>Show all users</a></li>
               </ul>
             </li>
           </ul>
@@ -209,8 +209,8 @@
 												<td>${user.userPrivilege.privilege_name}</td>
 												<td>${user.user_email}</td>
 												<td>
-													<a class="btn btn-warning" href="/OrderingSystem-0.0.1-SNAPSHOT/admin/user/edit/${user.user_id}">Edit</a>
-													<a class="btn btn-danger" href="" data-href="/OrderingSystem-0.0.1-SNAPSHOT/admin/user/delete/${user.user_id}">Delete</a>
+													<a class="btn btn-warning" href="/OrderingSystem/admin/user/edit/${user.user_id}">Edit</a>
+													<a class="btn btn-danger" href="" data-href="/OrderingSystem/admin/user/delete/${user.user_id}">Delete</a>
 												</td>
 											</tr>
 										</c:forEach>
@@ -238,27 +238,27 @@
 
     <!-- jQuery 2.1.4 -->
 	<script
-		src="/OrderingSystem-0.0.1-SNAPSHOT/resources/plugins/jQuery/jQuery-2.1.4.min.js"></script>
+		src="/OrderingSystem/resources/plugins/jQuery/jQuery-2.1.4.min.js"></script>
 	<!-- Bootstrap 3.3.5 -->
-	<script src="/OrderingSystem-0.0.1-SNAPSHOT/resources/bootstrap/js/bootstrap.min.js"></script>
+	<script src="/OrderingSystem/resources/bootstrap/js/bootstrap.min.js"></script>
 	<!-- FastClick -->
 	<script
-		src="/OrderingSystem-0.0.1-SNAPSHOT/resources/plugins/fastclick/fastclick.min.js"></script>
+		src="/OrderingSystem/resources/plugins/fastclick/fastclick.min.js"></script>
 	<!-- AdminLTE App -->
-	<script src="/OrderingSystem-0.0.1-SNAPSHOT/resources/bootstrap/dist/js/app.min.js"></script>
+	<script src="/OrderingSystem/resources/bootstrap/dist/js/app.min.js"></script>
 	<!-- Sparkline -->
 	<script
-		src="/OrderingSystem-0.0.1-SNAPSHOT/resources/plugins/sparkline/jquery.sparkline.min.js"></script>
+		src="/OrderingSystem/resources/plugins/sparkline/jquery.sparkline.min.js"></script>
 	<!-- jvectormap -->
 	<script
-		src="/OrderingSystem-0.0.1-SNAPSHOT/resources/plugins/jvectormap/jquery-jvectormap-1.2.2.min.js"></script>
+		src="/OrderingSystem/resources/plugins/jvectormap/jquery-jvectormap-1.2.2.min.js"></script>
 	<script
-		src="/OrderingSystem-0.0.1-SNAPSHOT/resources/plugins/jvectormap/jquery-jvectormap-world-mill-en.js"></script>
+		src="/OrderingSystem/resources/plugins/jvectormap/jquery-jvectormap-world-mill-en.js"></script>
 	<!-- SlimScroll 1.3.0 -->
 	<script
-		src="/OrderingSystem-0.0.1-SNAPSHOT/resources/plugins/slimScroll/jquery.slimscroll.min.js"></script>
+		src="/OrderingSystem/resources/plugins/slimScroll/jquery.slimscroll.min.js"></script>
 	<!-- ChartJS 1.0.1 -->
 	<script 
-		src="/OrderingSystem-0.0.1-SNAPSHOT/resources/plugins/chartjs/Chart.min.js"></script>
+		src="/OrderingSystem/resources/plugins/chartjs/Chart.min.js"></script>
 </body>
 </html>

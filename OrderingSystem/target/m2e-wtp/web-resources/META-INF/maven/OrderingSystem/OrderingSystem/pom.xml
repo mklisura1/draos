@@ -11,6 +11,11 @@
 		<mysql.connector.version>5.1.21</mysql.connector.version>
 		<spring.version>4.2.2.RELEASE</spring.version>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+		
+		<INSTANCE_CONNECTION_NAME></INSTANCE_CONNECTION_NAME>
+	    <user>root</user>
+	    <password>12345</password>
+	    <database>draosdb</database>
 	</properties>
 
 	<dependencies>
@@ -29,6 +34,12 @@
 			<groupId>mysql</groupId>
 			<artifactId>mysql-connector-java</artifactId>
 			<version>${mysql.connector.version}</version>
+		</dependency>
+		<dependency>
+			<groupId>com.google.cloud.sql</groupId>
+			<!-- If using MySQL 6.x driver, use mysql-socket-factory-connector-j-6 instead -->
+			<artifactId>mysql-socket-factory</artifactId>
+			<version>1.0.5</version>
 		</dependency>
 		<dependency>
 			<groupId>commons-dbcp</groupId>
