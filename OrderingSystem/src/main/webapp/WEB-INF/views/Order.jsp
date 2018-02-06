@@ -249,7 +249,7 @@
         <div class="pull-right hidden-xs">
           <b>Version</b> 1.0.0
         </div>
-        <strong>Copyright © 2016- <a href="https://www.facebook.com/mklisura1">Mesud Klisura</a>.</strong> All rights reserved.
+        <strong>Copyright © 2017-2018 <a href="https://www.facebook.com/mklisura1">DRAOS2</a>.</strong> All rights reserved.
       </footer>
 
     </div><!-- ./wrapper -->
@@ -278,15 +278,15 @@
 	<script>
 	simpleCart({
 		cartColumns: [
-		                { attr: "image", label: "Item", view: "image"} ,
-		                { attr: "name" , label: "Name" } ,
-		                { attr: "price" , label: "Price", view: 'currency' } ,
+		                { attr: "image", label: false, view: "image"} ,
+		                { attr: "name" , label: false } ,
+		                { attr: "price" , label: false, view: 'currency' } ,
 		                { view: "decrement" , label: false , text: "-" } ,
-		                { attr: "quantity" , label: "Qty" } ,
+		                { attr: "quantity" , label: false } ,
 		                { view: "increment" , label: false , text: "+" } ,
-		                { attr: "total" , label: "SubTotal", view: 'currency' } ,
+		                { attr: "total" , label: false, view: 'currency' } ,
 		                { view: "remove" , text: "Remove" , label: false },
-		                { attr: "id" , label: "ID" }
+		                { attr: "id" , label: false }
 		            ],
 		  
 		checkout: {

@@ -32,11 +32,11 @@
   </style>
   
   <style type="text/css">
-  	.headerRow{display: none;}
+  	.headerRow {display: none;}
   	.itemRow > .item-image{display: none;}
   	.itemRow > .item-total{display: none;}
   	.itemRow > .item-id{display: none;}
-  	.itemRow > .item-price{margin-top: -20px; padding-left: 70px;}
+  	.itemRow > .item-price{margin-top: -20px; padding-left: 70px; float: right;}
   	.itemRow > .item-quantity{margin-top: -20px; padding-left: 20px;}
   	.itemRow > .item-increment{margin-top: -20px; padding-left: 50px;}
   	.itemRow > .item-remove{margin-top: -40px; padding-left: 140px; margin-bottom: 20px;}
@@ -83,7 +83,7 @@
 							<div class="cartHeaders">
 								<div class="itemImage" style="display: none;">Image</div>
 								<div class="itemName">Name</div>
-								<div class="itemPrice">Price</div>
+								<div class="itemPrice" style="float: right;">Price</div>
 								<div class="itemOptions" style="display: none;">Options</div>
 								<div class="itemQuantity">Quantity</div>
 								<div class="itemTotal" style="display: none;">Total</div>
@@ -244,7 +244,7 @@
         <div class="pull-right hidden-xs">
           <b>Version</b> 1.0.0
         </div>
-        <strong>Copyright © 2016- <a href="https://www.facebook.com/mklisura1">Mesud Klisura</a>.</strong> All rights reserved.
+        <strong>Copyright © 2017-2018 <a href="https://www.facebook.com/mklisura1">DRAOS2</a>.</strong> All rights reserved.
       </footer>
 
     </div><!-- ./wrapper -->

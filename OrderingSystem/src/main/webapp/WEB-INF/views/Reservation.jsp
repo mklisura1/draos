@@ -230,8 +230,8 @@
 			<div class="pull-right hidden-xs">
 				<b>Version</b> 1.0.0
 			</div>
-			<strong>Copyright © 2016- <a
-				href="https://www.facebook.com/mklisura1">Mesud Klisura</a>.
+			<strong>Copyright © 2017-2018 <a
+				href="https://www.facebook.com/mklisura1">DRAOS2</a>.
 			</strong> All rights reserved.
 		</footer>
 
