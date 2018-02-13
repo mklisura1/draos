@@ -8,6 +8,7 @@ import javax.persistence.Id;
 import javax.persistence.Table;
 import javax.validation.constraints.Future;
 import javax.validation.constraints.NotNull;
+import javax.validation.constraints.Pattern;
 
 import org.hibernate.validator.constraints.Email;
 import org.hibernate.validator.constraints.NotEmpty;
@@ -27,6 +28,7 @@ public class Reservation {
 	private String customer_email;
 	@NotEmpty
 	private String customer_phone;
+	
 	@NotNull
 	private Integer customer_number_person;
 	@Future

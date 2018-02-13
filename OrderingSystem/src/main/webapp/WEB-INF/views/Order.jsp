@@ -44,6 +44,11 @@
   	
   	.itemRow > .item-remove {display: none;}
   </style>
+  
+  <style type="text/css">
+  	.item-image > img {height: 100%; width: 60%}
+  </style>
+  
 </head>
 <body class="sidebar-mini skin-yellow fixed">
 	<div class="wrapper">
@@ -138,14 +143,18 @@
 						<h3 class="box-title">Order details</h3>
 					</div>
 					<div class="box-body">
-						<div class="simpleCart_items">
-							<div class="cartHeaders">
-								<div class="itemImage">Image</div>
-								<div class="itemName">Name</div>
-								<div class="itemPrice">Price</div>
-								<div class="itemOptions">Options</div>
-								<div class="itemQuantity">Quantity</div>
-								<div class="itemTotal">Total</div>
+						<div class="col-md-4">
+							<div class="simpleCart_items">
+								<div class="cartHeaders">
+									<div class="itemImage">Image</div>
+									<div class="itemName">Name</div>
+									<div class="itemPrice">Price</div>
+									<div class="itemOptions">Options</div>
+									<div class="itemQuantity">Quantity</div>
+									<div class="itemTotal">Total</div>
+									<br>
+									<hr>
+								</div>
 							</div>
 						</div>
 					</div>		
@@ -212,7 +221,7 @@
 						<spring:bind path="order.order_phone">
 							<div class="form-group ${status.error ? 'has-error' : ''}">
 								<form:label path="order.order_phone">*Your phone number</form:label>
-								<form:input type="text" path="order.order_phone" name="order_phone" placeholder="e.g. 38762123123 etc"  class="form-control"/>
+								<form:input type="text" path="order.order_phone" name="order_phone" placeholder="e.g. +38762123123 etc"  class="form-control"/>
 				        		<div class="has-error">
 									<form:errors path="order.order_phone" cssStyle="color: #ff0000;"/>
 								</div>
@@ -232,6 +241,7 @@
 						<span style="color: blueviolet;"> We need Your email and phone number to send verification code!</span>
 						
 					</div>
+					<input id="has_error" type="hidden" value="${has_error}"></input>
 					
 					<div class="box-footer">
 						<a href="/OrderingSystem/menu" class="btn btn-info pull-left">Continue shopping</a>
@@ -323,8 +333,56 @@
 	<script>
 	function clearLocalStorage()
 	{
-		console.log("Usao sam da resetujem localStorage");
-		localStorage.clear();
+		var has_error = document.getElementById("has_error");
+
+		if(has_error == false)
+		{
+			console.log("Usao sam da resetujem localStorage");
+			localStorage.clear();
+		}
+	}
+	</script>
+	<script>
+
+	document.addEventListener('DOMContentLoaded', ucitajslike, false);
+
+	function ucitajslike() 
+	{
+		   // your code here		    
+		    var list= document.getElementsByClassName("item-image");
+		    var list_image = [];
+
+		    console.log(list);
+		    
+		    for (var i = 0; i < 100; i++) 
+			{
+				var id = "cartItem_";
+				
+
+				id += i.toString();
+
+				console.log("id: " + id);
+				
+			    var item = document.getElementById(id);
+
+			    console.log(item);
+
+			    if(item != null)
+			    {
+				    console.log("Dodajem u listu");
+				    list_image.push(item.children[0].children[0])
+			    }
+		    }
+
+		    console.log(list_image);
+
+		    for(var j = 0; j<list_image.length; j++)
+		    {
+		    	console.log("Usao sam da postavim klasu za image");
+			    //console.log(imgs[i].classList);
+			    j.classList.add('img-responsive');
+			    console.log("Prosao2");
+			}
 	}
 	</script>
 </body>

@@ -28,13 +28,15 @@ public class OrderController {
 		
 		if(result.hasErrors())
 		{
+			Boolean has_error = true;
 			ModelAndView modelAndView = new ModelAndView("Order");
 			
 			modelAndView.addObject("orderCartWrapper", orderCartWrapper);
+			modelAndView.addObject("has_error", has_error);
 			return modelAndView;
 		}
 		
-		return new ModelAndView("redirect:/index");
+		return new ModelAndView("redirect:/index_succes_order");
 	}
 
 }

@@ -34,7 +34,7 @@
   <style type="text/css">
   	.headerRow {display: none;}
   	.itemRow > .item-image{display: none;}
-  	.itemRow > .item-total{display: none;}
+  	.itemRow > .item-total{}
   	.itemRow > .item-id{display: none;}
   	.itemRow > .item-price{margin-top: -20px; padding-left: 70px; float: right;}
   	.itemRow > .item-quantity{margin-top: -20px; padding-left: 20px;}
@@ -67,14 +67,14 @@
             <ul class="nav navbar-nav">
             
               <!-- Shoping Cart-->
-              <li class="dropdown notifications-menu">
-                <a href="#" class="dropdown-toggle" data-toggle="dropdown" aria-expanded="false">Products in cart  
+              <li class="dropdown notifications-menu" id="korpa">
+                <a href="#" class="dropdown-toggle" id="korpa2" data-toggle="dropdown" >Products in cart  
                   <i class="fa fa-cart-arrow-down"></i>
                   <span class="label label-success simpleCart_quantity"></span>
                 </a>
                 <ul class="dropdown-menu">
                   <li class="header">You have <i class="simpleCart_quantity"></i> products in cart</li>
-                  <li class="header">Cart total: <i class="simpleCart_total"></i></li>
+                  <li class="header" style="font-size: x-large;">Cart total: <i class="simpleCart_total"></i></li>
                   <li>
                     <!-- inner menu: contains the actual data -->
                     <div class="slimScrollDiv"><ul class="menu">                      
@@ -86,8 +86,10 @@
 								<div class="itemPrice" style="float: right;">Price</div>
 								<div class="itemOptions" style="display: none;">Options</div>
 								<div class="itemQuantity">Quantity</div>
-								<div class="itemTotal" style="display: none;">Total</div>
+								<div class="itemTotal">Total</div>
+								<hr>
 							</div>
+							<hr>
 						</div>
                       </li>
                       <li>
@@ -200,7 +202,7 @@
 										                            <img src="${product.productPicture.picture_thumb}" alt="image" class="img-circle m-t-xs img-responsive item_image">
 										                            <div class="m-t-xs font-bold item_price">${product.product_price} KM</div>
 										                            
-										                            <a href="#" onclick="simpleCart.add({
+										                            <a id="addToCartButton" class="otvoriDropdown" href="#" onclick="simpleCart.add({
 											                            id: ${product.product_id},
 											                            name: '${product.product_name}', 
 											                            price: ${product.product_price},
@@ -279,7 +281,7 @@
 		                { view: "decrement" , label: false , text: "-" } ,
 		                { attr: "quantity" , label: "Qty" } ,
 		                { view: "increment" , label: false , text: "+" } ,
-		                { attr: "total" , label: "SubTotal", view: 'currency' } ,
+		                { attr: "total" , label: false, view: 'currency' } ,
 		                { view: "remove" , text: "Remove" , label: false },
 		                { attr: "id" , label: "ID" }
 		            ],
@@ -304,6 +306,23 @@
 		  localStorage.clear();
 		  return '';
 		}; */
+	</script>
+	
+	
+	<script>
+
+		var list = document.getElementsByClassName("otvoriDropdown");
+		for (var i = 0; i < list.length; i++) {
+		    list[i].addEventListener("click", displayDropdown);
+		}
+		//document.getElementsByClassName("otvoriDropdown").addEventListener("click", displayDropdown);
+	
+		function displayDropdown() {
+			console.log("Usao sam");
+
+			alert("Proizvod dodan u korpu!");			
+		}
+			
 	</script>
 </body>
 </html>

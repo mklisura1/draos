@@ -189,7 +189,7 @@
 									<spring:bind path="customer_number_person">
 									<div class="form-group ${status.error ? 'has-error' : ''}">
 										<form:label path="customer_number_person">*Number of person</form:label>
-										<form:input type="text" path="customer_number_person" name="numberofpersons" placeholder="Number of person"  class="form-control"/>
+										<form:input type="number" path="customer_number_person" name="numberofpersons" placeholder="Number of person"  class="form-control"/>
 			        					<div class="has-error">
 											<form:errors path="customer_number_person" cssStyle="color: #ff0000;"/>
 										</div>

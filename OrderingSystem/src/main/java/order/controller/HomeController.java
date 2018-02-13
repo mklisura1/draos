@@ -19,4 +19,15 @@ public class HomeController {
 	public ModelAndView indexPageRedirect() {
 		return new ModelAndView("Index");
 	}
+	
+	@RequestMapping(value="/index_succes_order", method = RequestMethod.GET)
+	public ModelAndView indexPageSuccessOrder() {
+		ModelAndView modelAndView = new ModelAndView("Index");
+		
+		Boolean has_error = false;
+		
+		modelAndView.addObject("has_error", has_error);
+		
+		return modelAndView;
+	}
 }
